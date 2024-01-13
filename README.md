@@ -58,10 +58,6 @@ vi. **Geographical Bias:** The dataset includes projects from specific countries
 
 The use of Excel facilitated data exploration, trend identification, and statistical analysis, making it a valuable tool for gaining insights from the dataset of 1000 sample crowdfunding projects.
 
-## Statistical Analysis
-
-*Insert Table and Figure here*
-
 ## References
 
 - Exceljet (2023). [500 Excel formulas](https://exceljet.net/formulas). Accessed on October 17, 2023.
